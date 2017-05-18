@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedievalGame.Plugins", "MedievalGame.Plugins.csproj", "{C70F5DF0-9C4B-181C-EEED-608C056E66F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedievalGame", "MedievalGame.csproj", "{D50808A7-6FE8-C954-0BA7-918AAC257520}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedievalGame.Editor.Plugins", "MedievalGame.Editor.Plugins.csproj", "{F30FBC6E-7FAA-29A4-49E3-EE81F2374548}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C70F5DF0-9C4B-181C-EEED-608C056E66F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C70F5DF0-9C4B-181C-EEED-608C056E66F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C70F5DF0-9C4B-181C-EEED-608C056E66F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C70F5DF0-9C4B-181C-EEED-608C056E66F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D50808A7-6FE8-C954-0BA7-918AAC257520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D50808A7-6FE8-C954-0BA7-918AAC257520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D50808A7-6FE8-C954-0BA7-918AAC257520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D50808A7-6FE8-C954-0BA7-918AAC257520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F30FBC6E-7FAA-29A4-49E3-EE81F2374548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30FBC6E-7FAA-29A4-49E3-EE81F2374548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30FBC6E-7FAA-29A4-49E3-EE81F2374548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30FBC6E-7FAA-29A4-49E3-EE81F2374548}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
